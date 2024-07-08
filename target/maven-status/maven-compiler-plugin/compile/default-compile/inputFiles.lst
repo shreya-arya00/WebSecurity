@@ -1,0 +1,14 @@
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/DemoApplication.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/config/JwtAuthenticationEntryPoint.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/config/JwtRequestFilter.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/config/SecurityConfig.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/controller/AuthController.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/controller/UserController.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/model/JwtRequest.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/model/JwtResponse.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/model/Role.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/model/User.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/repository/UserRepository.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/service/JwtUserDetailsService.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/service/UserService.java
+/Users/skumari/Desktop/WebSecurity/src/main/java/com/example/demo/util/JwtTokenUtil.java
